@@ -1,4 +1,11 @@
+## install: python -m pip install -r requirements.txt
+## Data Handling ##
 numpy
 pandas
 matplotlib
 pandas-datareader
+
+## Machine Learing ##
+tensorflow
+sklearn
+scikit-learn
